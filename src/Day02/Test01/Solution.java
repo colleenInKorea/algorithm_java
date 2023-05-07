@@ -1,4 +1,4 @@
-package Day02;
+package Day02.Test01;
 import java.util.Scanner;
 
 public class Solution {
